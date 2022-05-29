@@ -1,7 +1,4 @@
-![giphy](https://user-images.githubusercontent.com/102520889/170874813-e88291d2-c9dc-4fef-b5c7-168848fc4b40.gif)
 
-
-![giphy (1)](https://user-images.githubusercontent.com/102520889/170874940-e529d976-3888-4b73-9d99-cff057ce281a.gif)
 
 
 <h1 align="center">Hi 👋, I'm Ayush Pauja</h1>
