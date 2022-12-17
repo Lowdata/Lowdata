@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowdata&label=Profile%20views&color=0e75b6&style=flat" alt="lowdata" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Rust and Solana**
+
+- :yum: I' have completed Solidity and and Eth Environment
 
 - 👨‍💻 All of my projects are available at: https://github.com/stars/Lowdata/lists/my-projects
 
-- 💬 Ask me about **Node.js, Python, Web3, Solidity, Chainlink**
+- 💬 Ask me about **Node.js, Javascript, Reactjs, Rust, Python, Web3, Solidity, Chainlink and JOKES!!:cowboy_hat_face:**
 
 - ⚡ Fun fact **I am Lowdata with a WIFI**
 
