@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lowdata/Lowdata/projects?type=beta](https://github.com/Lowdata/Lowdata/projects?type=beta)
+- 👨‍💻 All of my projects are available at: https://github.com/stars/Lowdata/lists/my-projects
 
 - 💬 Ask me about **Node.js, Python, Web3, Solidity, Chainlink**
 
