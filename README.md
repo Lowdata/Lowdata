@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowdata" alt="lowdata" /></a> </p>
 
-- 🔭 I’m currently working at [Indi.gg](https://indi.gg/)
+- 🔭 I’m currently working at [Whooper Tech]()
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Nest.js  Aptos Chain MoveLang** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/stars/Lowdata/lists/my-projects](https://github.com/stars/Lowdata/lists/my-projects)
 
